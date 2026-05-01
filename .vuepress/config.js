@@ -17,7 +17,6 @@ module.exports = {
         children: [
           '/start',
           '/目录',
-          '/提示',
           '/管理员联系方式',
           '/账号申请',
         ]
