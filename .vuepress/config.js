@@ -15,7 +15,7 @@ module.exports = {
         title: '开始',
         collapsable: false,
         children: [
-          '/开始',
+          '/start',
           '/目录',
           '/管理员联系方式',
           '/账号申请',
