@@ -12,6 +12,5 @@ features:
   details: 电脑配置、外设设备等硬件使用说明
 - title: 常见问题解决
   details: 触摸屏问题、软件卡顿、显示问题等常见问题解决方案
-footer: Edit by BeautyEggs
 ---
 
